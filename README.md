@@ -1,6 +1,7 @@
 # app-dev
 My first repository
 #H1
+---------------------------------------------
 
 ```
 {
@@ -12,3 +13,5 @@ My first repository
 1. ** bold text***italicized text Naruto 
 2. ** bold text***italicized text  One Piece 
 3. ** bold text***italicized text  Dr. Stone
+
+---------------------------------------------
