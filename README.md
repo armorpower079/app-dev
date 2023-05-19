@@ -9,6 +9,6 @@ My first repository
   "age": 25
 }
 ```
-1. Naruto *bold text**
-2. One Piece *italicized text
-3. Dr. Stone
+1. ** bold text***italicized text Naruto 
+2. ** bold text***italicized text  One Piece 
+3. ** bold text***italicized text  Dr. Stone
